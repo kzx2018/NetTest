@@ -1,0 +1,9 @@
+1.c语言——多服务并行服务器
+（需要改execl函数路径）
+2.java---TCP和UDP的并发服务器
+   TCP无
+（需要改UDP的文件路径）
+3.nodejs实验
+mysql需要数据库集（手动插入数据）
+mongodb（注意先开启服务，和运行的顺序）
+4.自登陆databrick
